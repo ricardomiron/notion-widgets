@@ -1,2 +1,2 @@
-# twitter-feed
-A stupid workaround to twitter not offering iframes
+# Notion Widgets
+A stupid workaround to twitter and other services not offering iframes
